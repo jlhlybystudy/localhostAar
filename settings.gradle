@@ -1,0 +1,2 @@
+include ':app', ':test1'
+rootProject.name='localhost'
